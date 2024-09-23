@@ -1,5 +1,5 @@
 
-# this is
+# this is the module header:
 
 driver.h
 

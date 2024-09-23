@@ -1,8 +1,6 @@
 
-# this is
+# this is the module source:
 
 driver.c
 
 ---eof
-
-

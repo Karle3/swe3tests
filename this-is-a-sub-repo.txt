@@ -3,7 +3,7 @@ See
   https://www.atlassian.com/git/tutorials/git-submodule
 
 
-Prepare V1_6_bra.
+Prepare V1_7_bra.
 
 
 ---eof
